@@ -1,7 +1,15 @@
-# Tauri + React + Typescript
+# Expo Studio
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+A desktop app for managing Expo apps across multiple devices from a single place — similar to RadonIDE.
 
-## Recommended IDE Setup
+## Overview
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Run and manage your Expo apps on multiple devices simultaneously, all controlled from one interface.
+
+## Tech Stack
+
+- **Tauri** — Native desktop shell
+
+## Development
+
+This project is being "vibe coded" initially — exploring the tech stack and validating the concept before a more structured approach.
