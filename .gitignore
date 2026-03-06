@@ -12,6 +12,13 @@ dist
 dist-ssr
 *.local
 
+# Claude & Cursor
+.claude/
+CLAUDE.md
+.DS_Store
+.cursor/
+cursor.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
